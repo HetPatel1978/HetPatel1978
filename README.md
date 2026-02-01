@@ -15,14 +15,14 @@
 
 ---
 
-### 🧠 About
-- 🎓 M.S. (AI) @ Penn State (2025–2027)
-- 🔬 Research: 3D motion analysis + fine-grained micro-human-motion recognition
-- ⚙️ I care about **accuracy**, **latency**, and **deployability** (real systems > demo notebooks)
+###  About
+-  M.S. (AI) @ Penn State (2025–2027)
+-  Research: 3D motion analysis + fine-grained micro-human-motion recognition
+-  I care about **accuracy**, **latency**, and **deployability** (real systems > demo notebooks)
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 **ML/DL:** `PyTorch` `TensorFlow` `Transformers` `Hugging Face` `LoRA/PEFT` `FAISS`  
 **CV/NLP:** `Computer Vision` `BERT/BioBERT` `Detection/Segmentation`  
 **Data:** `NumPy` `Pandas` `Matplotlib` `Tableau`  
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 - **VLM (Vision + Language Filtering)** — attribute-driven person-specific detection  
   → https://github.com/HetPatel1978/VLM
 
@@ -52,13 +52,13 @@
 
 ---
 
-### 📚 Publications
+###  Publications
 - Enhancing Scalability in DNA Data Storage (IJRASET, 2025)
 - Image Retrieval using CNN + Dimensionality Reduction (IJIRCT, 2024)
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=HetPatel1978&show_icons=true&rank_icon=github" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetPatel1978&layout=compact" />
@@ -70,14 +70,14 @@
 
 ---
 
-### 🤝 Open to
+###  Open to
 - Applied research collaborations (CV/NLP)
 - Production ML / model deployment work
 - Interesting problems in healthcare, security, or enterprise AI
 
 ---
 
-### 📫 Contact
+### Contact
 - Email: **hetp2030@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/hetpatel093
 - Medium: https://medium.com/@hetp2030
