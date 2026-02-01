@@ -58,14 +58,14 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HetPatel1978&show_icons=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetPatel1978&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HetPatel1978&amp;show_icons=true&amp;rank_icon=github&amp;cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetPatel1978&amp;layout=compact&amp;cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HetPatel1978" />
+  <img src="https://streak-stats.demolab.com?user=HetPatel1978&amp;cache_seconds=86400" />
 </p>
 
 ---
