@@ -1,6 +1,6 @@
 <!-- Profile README for: HetPatel1978 -->
 
-<h1 align="center">Hi, I’m Het Patel 👋</h1>
+<h1 align="center">Hi, I’m Het Patel </h1>
 
 <p align="center">
   <a href="mailto:hetp2030@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hetp2030%40gmail.com-informational"></a>
