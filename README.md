@@ -32,23 +32,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,aws,git,linux" />
 </p>
 
----
-
-###  Featured Projects
-- **VLM (Vision + Language Filtering)** — attribute-driven person-specific detection  
-  → https://github.com/HetPatel1978/VLM
-
-- **Multimodal Alpha Prediction (FinBERT + time-series)** — signals from news/Reddit/trends  
-  → https://github.com/HetPatel1978/Multimodal-Alpha-Prediction-using-Stock-Sentiment
-
-- **CleanScreen-AI** — NSFW video moderation (frame + sequence modeling)  
-  → https://github.com/HetPatel1978/CleanScreen-AI
-
-- **Sales-Ai-Agent** — LLM-powered CRM assistant (prediction + recommendations)  
-  → https://github.com/HetPatel1978/Sales-Ai-Agent
-
-- **OfflineGPT** — lightweight “offline-first” GPT-style workflow experiments  
-  → https://github.com/HetPatel1978/OfflineGPT
 
 ---
 
