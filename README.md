@@ -1,54 +1,41 @@
-<!-- Profile README for: HetPatel1978 -->
+# Hi, I'm Het Patel
 
-<h1 align="center">Hi, I’m Het Patel </h1>
-
-<p align="center">
-  <a href="mailto:hetp2030@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hetp2030%40gmail.com-informational"></a>
-  <a href="https://www.linkedin.com/in/hetpatel093"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hetpatel093-blue"></a>
-  <a href="https://medium.com/@hetp2030"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40hetp2030-black"></a>
-  <a href="https://github.com/HetPatel1978"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-HetPatel1978-181717"></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Applied+Researcher;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Deployable+Deep+Learning;Latency+%2B+Scalability+Mindset+%7C+Production+Focus" alt="Typing SVG" />
-</p>
+AI/ML Engineer building LLM/RAG systems, computer vision, and document intelligence — with a bias for real, deployable systems over demo notebooks.
 
 ---
 
-###  About
--  M.S. (AI) @ Penn State (2025–2027)
--  Research: 3D motion analysis + fine-grained micro-human-motion recognition
--  I care about **accuracy**, **latency**, and **deployability** (real systems > demo notebooks)
+## About
+- M.S. in Artificial Intelligence, Penn State University (2025–2027) · Chancellor's Scholarship · GPA 3.9/4.0
+- I work across the full applied-ML stack: data, training, fine-tuning, evaluation, and deployment.
+- Experience spanning research and production — at ISRO, an enterprise AI vision platform, and Penn State.
+- What I care about: **accuracy, latency, and deployability.**
 
----
+## Currently
+- Graduate researcher at Penn State (Think_Lab) — 3D motion analysis and fine-grained human-motion recognition for early detection of neurological movement disorders.
 
-###  Tech Stack
-**ML/DL:** `PyTorch` `TensorFlow` `Transformers` `Hugging Face` `LoRA/PEFT` `FAISS`  
-**CV/NLP:** `Computer Vision` `BERT/BioBERT` `Detection/Segmentation`  
-**Data:** `NumPy` `Pandas` `Matplotlib` `Tableau`  
-**Deploy:** `Docker` `FastAPI` `Streamlit` `AWS` `Git`  
+## Tech Stack
+- **ML / Deep Learning:** Python, PyTorch, TensorFlow, Transformers, Hugging Face, LoRA/PEFT
+- **LLMs / NLP:** RAG, LangChain, FAISS, ChromaDB, AI agents, BERT, prompt engineering
+- **Computer Vision:** Detection & segmentation, Grounding DINO, OpenCV, OCR, real-time inference
+- **Data & Tracking:** NumPy, Pandas, MLflow, Weights & Biases
+- **Deploy:** FastAPI, Docker, AWS, Git, Streamlit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,aws,git,linux" />
-</p>
+## Projects
+- **Aksibu Mini — GraphRAG Engineering Intelligence** — turns scattered data (Jira, GitHub, Confluence, logs) into a knowledge graph you can query in plain English, with every answer traced back to its source.
+- **AI Alpha — Multimodal Financial Prediction** — combines FinBERT news sentiment with time-series forecasting into a single market-intelligence pipeline, served via REST API.
+- **CleanScreen AI — Video Moderation** — two-stage MobileNet + C3D pipeline for real-time NSFW detection across streaming video.
 
+## Publications
+- *Fine-grained Human Motion Understanding for Early Detection of Neurological Movement Disorders* — in preparation (IEEE)
+- *Enhancing Scalability in DNA Data Storage* — IJRASET, 2025
+- *Image Retrieval using CNN + Dimensionality Reduction* — IJIRCT, 2024
 
----
+## Open to
+- Applied ML / research roles and internships (computer vision, NLP, LLMs)
+- Production ML and model-deployment work
+- Interesting problems in healthcare, document intelligence, and enterprise AI
 
-###  Publications
-- Enhancing Scalability in DNA Data Storage (IJRASET, 2025)
-- Image Retrieval using CNN + Dimensionality Reduction (IJIRCT, 2024)
-
----
-
-###  Open to
-- Applied research collaborations (CV/NLP)
-- Production ML / model deployment work
-- Interesting problems in healthcare, security, or enterprise AI
-
----
-
-### Contact
-- Email: **hetp2030@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/hetpatel093
-- Medium: https://medium.com/@hetp2030
+## Contact
+- Email: hetp2030@gmail.com
+- LinkedIn: [linkedin.com/in/hetpatel093](https://www.linkedin.com/in/hetpatel093)
+- Medium: [medium.com/@hetp2030](https://medium.com/@hetp2030)
