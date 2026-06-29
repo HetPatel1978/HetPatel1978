@@ -8,7 +8,7 @@ AI/ML Engineer building LLM/RAG systems, computer vision, and document intellige
 - M.S. in Artificial Intelligence, Penn State University (2025–2027) · Chancellor's Scholarship · GPA 3.9/4.0
 - I work across the full applied-ML stack: data, training, fine-tuning, evaluation, and deployment.
 - Experience spanning research and production — at ISRO, an enterprise AI vision platform, and Penn State.
-- What I care about: **accuracy, latency, and deployability.**
+- What I care about: **accuracy, latency, authenticity and deployability.**
 
 ## Currently
 - Graduate researcher at Penn State (Think_Lab) — 3D motion analysis and fine-grained human-motion recognition for early detection of neurological movement disorders.
