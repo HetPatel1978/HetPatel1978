@@ -1,6 +1,7 @@
 # Hi, I'm Het Patel
 
-AI/ML Engineer building LLM/RAG systems, computer vision, and document intelligence — with a bias for real, deployable systems over demo notebooks.
+AI Research Engineer adapting Meta's SAM3D foundation model (440M parameters) via domain-adaptive fine-tuning, with multimodal
+research spanning computer vision, NLP, and LLM systems. Skilled in PyTorch-based deep learning, weak-supervision pipelines, and endto-end research-to-production delivery across academic and industry settings.
 
 ---
 
